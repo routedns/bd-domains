@@ -26,3 +26,5 @@
 .jb.com.bd
 .stpay.net
 .mutualtrustbank.com
+.youtube.com
+
