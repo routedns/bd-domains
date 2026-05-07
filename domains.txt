@@ -16,6 +16,7 @@
 .abbl.com
 .telecash.finance
 .rupalibank.com.bd
+.pubalibankbd.com
 .tallykhata.com
 .nobopay.com
 .grameenphone.com
