@@ -6,7 +6,6 @@
 .upaysystem.com
 .pathaopay.com
 .islamibankbd.com
-.dutchbanglabank.com
 .deshipay.com
 .onebank.com.bd
 .mycashmbl.com
