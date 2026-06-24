@@ -25,6 +25,3 @@
 .jb.com.bd
 .stpay.net
 .mutualtrustbank.com
-.alipay.com
-.alipay-eco.com
-.zamcs.com
